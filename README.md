@@ -56,20 +56,12 @@ git clone https://github.com/yourname/adb-sms-hammer.git
 cd adb-sms-hammer
 ```
 
-Установи зависимости:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Запуск
 
 Запусти приложение:
 
 ```bash
-python sms_creator.py
+python main.py
 ```
 
 После запуска откроется графический интерфейс, через который можно указать номер телефона и текст сообщения.
