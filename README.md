@@ -52,8 +52,8 @@ adb devices
 Клонируй репозиторий:
 
 ```bash
-git clone https://github.com/yourname/adb-sms-hammer.git
-cd adb-sms-hammer
+git clone https://github.com/FlorestDevAndroid/sms_sender.git
+cd sms_sender
 ```
 
 ## 🚀 Запуск
